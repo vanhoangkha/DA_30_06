@@ -46,3 +46,5 @@
 - Use cases for structured arrays in scientific computing.
 
 ---
+
+[Youtube](https://www.youtube.com/watch?v=r9UKjj-XSfE)
